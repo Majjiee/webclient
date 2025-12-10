@@ -1,0 +1,7 @@
+com\example\car\web\CarController.class
+com\example\car\entities\Car.class
+com\example\car\entities\Client.class
+com\example\car\config\WebClientConfig.class
+com\example\car\services\ClientApi.class
+com\example\car\CarServiceApplication.class
+com\example\car\repositories\CarRepository.class
